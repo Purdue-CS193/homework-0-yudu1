@@ -1,4 +1,6 @@
 # Yu Du's First CS193 Homework
+
+## List of everything I like about CS193
 - The lecture is easy to follow.
 - The TA is great at explaining each lecture in detail.
 - This class is easy to follow along with.
